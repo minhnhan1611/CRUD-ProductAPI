@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 15 Pro Max",
+        "amount": 1,
+        "price": "999$",
+        "sale": "0$"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 14 Pro Max",
+        "amount": 1,
+        "price": "599$",
+        "sale": "50$"
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 Pro Max",
+        "amount": 2,
+        "price": "398$",
+        "sale": "8$"
+    },
+    {
+        "id": 4,
+        "name": "Iphone 12 Pro Max",
+        "amount": 1,
+        "price": "199$",
+        "sale": "2$"
+    },
+    {
+        "id": 5,
+        "name": "Iphone 11 Pro Max",
+        "amount": 1,
+        "price": "99$",
+        "sale": "1$"
+    }
+]
